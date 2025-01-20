@@ -29,4 +29,6 @@ On 29th January, of the 335 units on hands, 120 units were 0-90 days old (29 day
 
 ![image](https://github.com/user-attachments/assets/1675b72c-028c-44b1-8bc8-665cae58a95c)
 
+- Click Here : [Source Code](https://github.com/Mahendra710/Inventory-Age-Report/blob/main/InvAgeReport.sql)
+
 
